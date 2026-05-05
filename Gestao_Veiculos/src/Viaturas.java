@@ -39,6 +39,6 @@ public class Viaturas {
         System.out.println(numRodas);
         System.out.print("-> Velocidade Máxima da Viatura: ");
         System.out.print(maxVel);
-        System.out.println(" Km/h");
+        System.out.println(" Km/h\n");
     }
 }
