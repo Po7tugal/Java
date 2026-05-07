@@ -1,10 +1,10 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        Barco myV = new Barco();
+        Cruzeiro myV = new Cruzeiro();
         /*myV.setMaxVel(180);
         myV.setNumRodas(4);
         myV.setTipoViatura("carro");*/
 
-        myV.mostrarInfo();
+        myV.mostrarInfoCruzeiro();
     }
 }

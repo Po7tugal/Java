@@ -3,7 +3,7 @@ public class Barco extends Viatura {
     private boolean temPiscina;
 
     public Barco() {
-        super("Barco", 0, 0);
+        super("Barco", 0, 2);
     }
 
     public boolean isTemPiscina() {
@@ -29,6 +29,6 @@ public class Barco extends Viatura {
             System.out.println("Tem Piscina");
         } else {
             System.out.println("Não Tem Piscina");
-        } 
+        }
     }
 }
